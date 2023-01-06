@@ -1,0 +1,13 @@
+.getUser {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    left: 100px;
+    position: relative;
+  }
+
+.getUB{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}

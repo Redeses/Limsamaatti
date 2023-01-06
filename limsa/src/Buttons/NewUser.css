@@ -1,0 +1,12 @@
+.newUButton {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+  }
+
+.newUserButton{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}

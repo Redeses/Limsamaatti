@@ -1,0 +1,138 @@
+
+.buybox{
+    width: 45%;
+    margin-left: 1%;
+    margin-right: 1%;
+    height: 100%;
+    position: relative;
+    display: inline-flex;
+    background-color: aliceblue;
+    float: left;
+}
+.screened button{
+    height: 100px;
+    width:150px;
+    display: inline-block;
+    background-color: blue;
+}
+
+.screened{
+    height: 500px;
+    width:600px;
+    top: 30%;
+    left: 40%;
+    border-radius: 10%;
+    color: black;
+    background-color: rgba(155, 22, 22, 0.9);
+    border: solid;
+    border-color: blueviolet;
+    position: absolute;
+    z-index: 10;
+}
+
+.addingFunds{
+    
+    padding-top: 10%;
+    top: 50%; 
+    padding-left:10% ;
+    position: relative;
+    display: block;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.number{
+    height: 100px;
+    top: 10px;
+    min-height: 40px;
+    font-size: 60px;
+    width: 120px;
+    text-align: right;
+    position: relative;
+    display: inline-block;
+    
+}
+
+.fundsButtons{
+    border-radius: 15%;
+    font-size: 150%;
+    font-weight: bold;
+    margin: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.showItem{
+    font-weight: bold;
+    margin: 10%;
+    font-family:'Times New Roman', Times, serif;
+    height: 80%;
+    min-height: 200px;
+    width: 80%;
+}
+
+
+.newUserForm{
+    top: 30%;
+    left: 15%;
+    width: 70%;
+    display: grid;
+    background-color: rgba(255, 132, 0, 1);
+    position: relative;
+}
+
+.loginForm{
+    top: 30%;
+    left: 15%;
+    width: 70%;
+    display: grid;
+    background-color: rgba(255, 132, 0, 1);
+    position: relative;
+}
+
+.newUserForm label{
+    margin-top: 20px;
+}
+
+.newUserForm input{
+    height: 30px;
+    font-size: large;
+    justify-content: left;
+}
+
+#Opening_text{
+    display:inline-block;
+    color: aliceblue;
+    position: relative;
+    text-align: center;
+    padding-top: 3%;
+    left: 20%;
+}
+
+#submitButton{
+    
+}
+
+.buybox h2{
+    position: relative;
+}
+
+#title{
+    display: block;
+    font-size: large;
+}
+
+#addFunds{
+    position: relative;
+   left:35% ;
+   font-size: 32px;
+   border-radius: 35%;
+   background-color: gold;
+   margin-top:20px !important;
+}
+
+#add_funds_text{
+    justify-self: center;
+}
+
+

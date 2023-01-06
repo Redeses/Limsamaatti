@@ -1,0 +1,12 @@
+.qrButton {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+
+.QRCode {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+

@@ -1,0 +1,20 @@
+.helpButton{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 2%;
+    bottom: 3%;
+}
+
+.helpBox{
+   
+}
+
+.helpLogo img{
+    position: relative;
+    object-fit: cover;
+    display: block;
+    height: 100%;
+    width: 100%;
+    bottom:1000px;
+}
